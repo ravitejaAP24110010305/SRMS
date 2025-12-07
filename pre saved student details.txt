@@ -1,0 +1,13 @@
+NAME                APP NUMBER     MOBILE         SEM       CGPA    EMAIL
+==========================================================================================
+Ram                 AP244361       7100000083     2         6.00    Ram@srmuniversity.ac.in
+Raj                 AP249072       7100022942     6         8.60    Raj@srmuniversity.ac.in
+Krishna             AP241464       9100013175     4         9.90    Krishna@srmuniversity.ac.in
+Tejaswini           AP245993       7100026581     6         9.80    Tejaswini@srmuniversity.ac.in
+Anjali              AP244815       6100022577     4         9.90    Anjali@srmuniversity.ac.in
+Vikram              AP245918       8100006958     6         6.30    Vikram@srmuniversity.ac.in
+Sneha               AP248337       9100013313     6         7.90    Sneha@srmuniversity.ac.in
+Rahul               AP241035       6100009186     4         9.60    Rahul@srmuniversity.ac.in
+Priya               AP242230       6100004412     2         8.00    Priya@srmuniversity.ac.in
+Amit                AP243101       6100019721     8         6.50    Amit@srmuniversity.ac.in
+==========================================================================================
